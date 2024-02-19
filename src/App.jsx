@@ -24,6 +24,11 @@ useEffect(() => {
       
       <ExportToExcel />
       <p>{time}</p>
+
+      <div>
+      My github streak
+      <p>&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=Surya-Thombare&theme=dark&hide_border=true&card_width=300&hide_total_contributions=true" alt="surya-thombare" /></p>
+      </div>
     </>
   )
 }
